@@ -4,6 +4,7 @@
 * [jSQLITE3](https://github.com/Sanguinarious/jSQLITE3) - A light minimalistic wrapper to SQLite3 using JNA
 * [jCURL](https://github.com/Sanguinarious/jCURL) - A light minimalistic wrapper to libcurl using JNA
 * [jMarkov](https://github.com/Sanguinarious/jMarkov) - Markov Implementation in Java for amusement and emulation of my daily messages
+* [jtar](https://github.com/Sanguinarious/jtar) - Simple pure Java implementation of manipulating tar files
 * [SieveEratosthenes](https://github.com/Sanguinarious/SieveEratosthenes) - Sieve of Eratosthenes in java, you can download the generated primes [here](https://github.com/Sanguinarious/SieveEratosthenes/releases/tag/final).
 
 ## C/Win32
