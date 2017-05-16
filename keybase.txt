@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/wwelna
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://occultusterra.com
+  * I am wwelna (https://keybase.io/wwelna) on keybase.
+  * I have a public key with fingerprint 74D8 96DD 205B 22D5 D2FE  48DF E1A6 8585 BC27 AFA0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101620c1d6453a3f20cdc7a09485b59da54c046d2371ada9d44a20e3d6bfcf0427b0a",
+            "fingerprint": "74d896dd205b22d5d2fe48dfe1a68585bc27afa0",
+            "host": "keybase.io",
+            "key_id": "e1a68585bc27afa0",
+            "kid": "0101620c1d6453a3f20cdc7a09485b59da54c046d2371ada9d44a20e3d6bfcf0427b0a",
+            "uid": "9d1bc7acd652be9bf93d11f3fce85219",
+            "username": "wwelna"
+        },
+        "service": {
+            "hostname": "occultusterra.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494964257,
+    "expire_in": 157680000,
+    "prev": "d3bcf6287e0f3506e5faffbebb6d58153d10374b54f566faa72963032a6d200d",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtkmtMFFcUxxcEFCxCoSWhYC2DIgkU5j07G1NogfKokoKAWNBlZu4dGPcx6+ws
+iKulimhQEVoSn+Cj4RGqFKpNtVDkIRqsYEiqLRAwJYW2+IGklgYRtJ0l9ls/9n65
+957z///uOSe3xneFbpXbZFNFxXcb2y663ZvhddtDciOcCC+DUsTgRExweYNmAO2q
+0SQBxICgGIrROCpggCYpgiNE7QwEhkNZUk/xFAs4ihRQkgY4wWAc4FhAkhyOQgLQ
+vCiIKIkzPMoh0YgoWQuhYlMkq6phGRLoWRoAHKV4HAcUwEVI6oEIMY7WUxpZwBlO
+5FDNWCTbXQ6tOJ6zwxhJ1mLaxbhc3n/o/+e6Hcs4FmC85hYATeE8ZHmRJQCGiYQo
+QD2FY6xLaIeKlbNATV1SAs1WDtkfjWixYkmArrG6+niZlwXBYVYddhUqChcjyBbN
+blNkVRZks5YuUlWbweVWS23LOMgbX4KMvGQF2iQ1QzFU7JJsRQyYphRUyUXGSJZk
+aRKnmGgE7rFJCjRKLgXF0HpUW65nYLGGBAQviB/RuJ6BqEhQKA0pkRNFHvI8DSg9
+RmntoQRD8hQpUjQtchyDszSBEjinjQxFAeLqbbdVRgyEVidXqDHtUqGVUx0KRPb7
+VLqHeujcVum8PN1df0zn4+3/78fzSPHX1TNO+oDtm+otgXca4tLcQo58uK/8aca+
+jG/lAlN2T1x63GFjnlCvpFpOey/2yttuXS6pehFuSantetSSGPBF3kK/Jxs1HRn5
+zkLfudXolau2hN5zF57njjQeG90R+H3DozV/t09a7nPqXd9PorOr0/pGHTd9Grvq
+CqYiN9eOZxCNxs98ldiaOd+p3dk3g1NH3lj3+8zt+KGyg8lli5mZma96W84W1Dyo
+TL/mOI93BXYSm1qlJxsc11fOPojL3vzwp43OnLCKEWNwXXHwxU8HB052T48v7mnZ
+mvvmWdOBJPNovfcffbd+qyNNSW93xXbvtMxQC4XWpvLUh6cKzptCThwf+Vlu7wjd
+1t4SU1tz408yomHMoA8abg4t2aJ/b92uX07ucr5+8Nfw0Yljo+asqUHHTHf4/Iqs
+I3sv3X6u/DVU6zkxJx+vShloer8NeCVwKW/d0AWP0bo8sfPZtatrkfm1FT2nrGlf
+ri+7EuY9lxy5PjlC/OB++sf1g7nPPk9iZc/uDp/+vTlfdzaXznecGArI7Yui254s
+EYuLShPS73soseeV1u0Ts2c8NjVfDrLHJ/RWRxa925w1fPTHlvHVZfn+O+6smXMu
+jP0A1AsdXoei/MTJ/K1LOcOxQWGzaYmPWyvv2ZV4dx/rV9P5gwFVfo9f05U7lp4W
+DMREkNf9LtXvTF+ZNnv47ovT/wA=
+=WDAx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wwelna
+
+==================================================================
