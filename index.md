@@ -29,4 +29,4 @@
 * [asmutil](https://github.com/WWelna/asmutil) - Generic 32-bit ASM Algorithms
 
 ## Investigative / Analysis
-[Cicada-LibraPrimus](https://github.com/WWelna/Cicada-LibraPrimus) - My work analyzing and cracking Libra Primus
+* [Cicada-LibraPrimus](https://github.com/WWelna/Cicada-LibraPrimus) - My work analyzing and cracking Libra Primus
