@@ -6,10 +6,19 @@
 * [jMarkov](https://github.com/WWelna/jMarkov) - Markov Implementation in Java for amusement and emulation of my daily messages
 * [jtar](https://github.com/WWelna/jtar) - Simple pure Java implementation of manipulating tar files
 * [SieveEratosthenes](https://github.com/WWelna/SieveEratosthenes) - Sieve of Eratosthenes in java, you can download the generated primes [here](https://github.com/WWelna/SieveEratosthenes/releases/tag/final).
+* [atomikron](https://github.com/WWelna/atomikron) - Packet Logger / Analysis Streaming Live Into SPLUNK
+* [jGab](https://github.com/WWelna/jGab) - Unofficial API interface to Gab
+* [jdbtool](https://github.com/WWelna/jdbtool) - Import and Export tool for SQL Databases (Maria & PostgreSQL) via JSON
+
+## Python
+* [MagicSquare-Stackless](https://github.com/WWelna/MagicSquare-Stackless) - Magic Square algorithm using Stackless. I wrote this because I wanted to explore the technical aspects of how stackless worked.
+* [Python-Utils](https://github.com/WWelna/Python-Utils) - Misc Python Stuff
 
 ## C/Win32
 * [memdrv-win32](https://github.com/WWelna/memdrv-win32) - Read/Write blocks of memory w/dynamic allocation
-* [cidr-rdns](https://github.com/WWelnacidr-rdns) - Mass rdns of ip blocks by cidr using c-ares 
+* [cidr-rdns](https://github.com/WWelnacidr-rdns) - Mass rdns of ip blocks by cidr using c-ares
+* [bfwin32-c](https://github.com/WWelna/bfwin32-c) - A BF Interpreter in C for Win32 Enviroments
+* [Pandora-OOC](https://github.com/WWelna/Pandora-OOC) - An Object-Oriented ANSI C Framework to obfuscate and prevent static and/or live executable analysis
 
 ## ANSI C
 * [MessagePack-C](https://github.com/WWelna/MessagePack-C) - My Implementation of Message Pack in C
@@ -18,3 +27,6 @@
 
 ## ASM
 * [asmutil](https://github.com/WWelna/asmutil) - Generic 32-bit ASM Algorithms
+
+## Investigative / Analysis
+[Cicada-LibraPrimus](https://github.com/WWelna/Cicada-LibraPrimus) - My work analyzing and cracking Libra Primus
